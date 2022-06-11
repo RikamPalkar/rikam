@@ -1,16 +1,21 @@
 
 # 💫About Me :
-I am currently working on Blazor
-You can collaborate here: https://github.com/RikamPalkar/LearnBlazor
-I am award winning technical writer: https://www.c-sharpcorner.com/members/rikam-palkar
-Also I am Top writer on medium.
-Writing a book on WPF co-authoring C#Corner's CEO, Mahesh Chand.
+- 💻 I am currently working on Blazor
+
+- 🤜🤛You can collaborate here: https://github.com/RikamPalkar/LearnBlazor
 
 - 👨‍💻 All of my projects are available at [https://github.com/RikamPalkar?tab=repositories](https://github.com/RikamPalkar?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@RikamPalkar](https://medium.com/@RikamPalkar)
+- 📓 Writing a book on WPF co-authoring C#Corner's CEO, Mahesh Chand.
 
 - 📫 How to reach me **rikampalakr@gmail.com**
+
+## 🏆Achievement
+- 📝 Also I am Top writer on medium.
+
+- 📜 I am award winning technical writer: https://www.c-sharpcorner.com/members/rikam-palkar
+
+- ✍ I regularly write articles on [https://medium.com/@RikamPalkar](https://medium.com/@RikamPalkar)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rikampalkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rikampalkar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rikampalkar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rikam_cz) 
