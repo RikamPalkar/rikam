@@ -1,4 +1,7 @@
 
+<h1 align="center">Hi 👋, I'm Rikam Palkar</h1>
+<h3 align="center">A passionate Software Engineer, changing the world with scalable code.</h3>
+
 # 💫About Me :
 - 💻 I am currently working on Blazor
 
